@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 3ae4441c0f2b6744a8a809a32be84e36
-NativeFormatImporter:
+guid: b7340ba69c557ad44a95011249f11829
+PrefabImporter:
   externalObjects: {}
-  mainObjectFileID: 11400000
   userData: 
   assetBundleName: runtimeinspector
   assetBundleVariant: assets

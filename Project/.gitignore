@@ -6,6 +6,8 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/Logs/
+/Packages/
 /Assets/AssetStoreTools*
 sysinfo.txt
 *.stackdump
