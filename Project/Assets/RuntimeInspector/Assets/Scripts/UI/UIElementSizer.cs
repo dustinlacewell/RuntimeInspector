@@ -12,7 +12,6 @@ public class UIElementSizer : MonoBehaviour, IDragHandler
 {
 
     public RectTransform owner;
-    public UIElementDragger dragger;
 
     public HandleLocation handleLocation;
 
@@ -45,12 +44,6 @@ public class UIElementSizer : MonoBehaviour, IDragHandler
 
         growDirection = growMap[handleLocation];
         moveDirection = moveMap[handleLocation];
-
-        dragger.OnDragStart += (sender, evt) => {
-            originalMousePosition = evt.position;
-            originalOwnerPosition = owner.position;
-            originalOwnerSize = new Vector3(owner.Width(), owner.Height());
-        };
     }
 
     // Update is called once per frame
