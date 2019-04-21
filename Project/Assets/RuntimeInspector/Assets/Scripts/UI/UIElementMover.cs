@@ -1,26 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class UIElementMover : MonoBehaviour
+public class UIElementMover : MonoBehaviour, IDragHandler
 {
-    public UIElementDragger dragger;
+    public UIElementDocker docker;
 
     private Vector2 offset;
 
     void Start()
     {
-        dragger.OnDragStart += (sender, evt) => {
-            offset = transform.position - (Vector3)evt.position;
-        };
+        if (docker == null)
+            docker = GetComponent<UIElementDocker>();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnDrag(PointerEventData eventData)
     {
-        if (dragger.Dragging)
+        if (docker != null && docker.Docked)
         {
-            transform.position = offset + (Vector2)Input.mousePosition;
+            return;
         }
+
+        transform.position += (Vector3)eventData.delta;
     }
 }

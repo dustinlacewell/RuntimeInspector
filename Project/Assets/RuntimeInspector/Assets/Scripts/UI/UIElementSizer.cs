@@ -1,13 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public enum HandleLocation
 {
     Left, BottomLeft, Bottom, BottomRight, Right
 }
 
-public class UIElementSizer : MonoBehaviour
+public class UIElementSizer : MonoBehaviour, IDragHandler
 {
 
     public RectTransform owner;
@@ -53,13 +54,9 @@ public class UIElementSizer : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    public void OnDrag(PointerEventData eventData)
     {
-        if (dragger.Dragging)
-        {
-            var difference = ((Vector2)Input.mousePosition - originalMousePosition);
-            owner.sizeDelta = originalOwnerSize + (difference * growDirection);
-            owner.position = originalOwnerPosition + (difference / 2.0f * moveDirection);
-        }
+        owner.sizeDelta += eventData.delta * growDirection;
+        owner.position += (Vector3)(eventData.delta * 0.5f * moveDirection);
     }
 }
