@@ -15,6 +15,6 @@ MonoBehaviour:
   _author: ldlework
   _description: Explore the scene hierarchy and edit components of objects
   _name: RuntimeInspector
-  _outputDirectory: S:/SteamLibrary/steamapps/common/Risk of Rain 2/BepInEx/plugins/multimod/mods
+  _outputDirectory: B:/RoR2/MultiMod/build
   _version: 0.0.1
   _prefab: {fileID: 4736625491976717983, guid: bd08c18ce00e1bc49ac12daba5147d1d, type: 3}
