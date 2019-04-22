@@ -1,0 +1,190 @@
+ManifestFileVersion: 0
+CRC: 1176110637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 910f5f528cc35c37a2219a5ffc313973
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a6a692e40b78c0f97cdf02bef2e99b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35015c50b2c3a604da64ea8c6813f078, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52282f703e9ceb94fbbd1e7a09e66de5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d7ebd119b16eb54284e6b0747a2016e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35334171e5bbdaf499da4d6a8a3e61f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc8a1c7185b008740b2c43cc5644e0a2, type: 3}
+- Class: 114
+  Script: {fileID: 168753087, guid: 210a97a1fb4e06b48b13f515f2188030, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 853051423, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6552c30232f0f104bbd7c08ece928f95, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ccdaa729d068fc42adc9086ea412146, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97580003e65031c4a86955db8b9b08e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 316499031f1afeb489319ec05bb84fd2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4088e22396170bf41bd4b4ca4a2437d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 418f67232394741448bf173ece91ddc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04b4c4c3f46b38f41bd355afc7ac1647, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78104f327b3ba341b44812f3eb22e96, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ff2c5044ba836041ae0c3d9eda55f28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be531524081657c479afb27aaa9501ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa5229e47c2e2344dbdb0011b4780fd7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af2a31562e167942bd7ecd4b814ebd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30158715ff59ef442aeceebc655d1b73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3d34835dd457c04a9a81529f3eb9dff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3502065971f7ef46ad6fc5a1a3385b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6b910862a5acca42909bd115888a20d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35b1b4b66e80eed479861ba1f63beb34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34d218b6946ca1d49bfb743832030e9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8302e5f6c0868094aa51524db7212b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d38ee2071d272894a98794fdb1e97dbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ece62407a5b688244b76d26965989511, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca0a444972b37d348aa8e4b05fc8a2a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ce38a59b3c65d74da714ee85231e8b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb127f89c3fd28542b6bead0ea08a23a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ae70d6a58b22924b9070a8fe73d3973, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f3ab59a4377e4d428ff42b052a2d189, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 748a81ca056ed954ba39428e7f990fa5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa8ca8ca537a8974691e2a421bd65159, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6000098be4011544882ebd2697b8d610, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97cab5bdac5ee91408781a0eb58755de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b200c0dd9130d004cb23a59f61494a03, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e36faa4ed8e59bc44a7a58a1e7f03341, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c10d145e2e77bee49876b0ae6ffdb9e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b1631bec815e784cbc42b9888f5e0a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed2c6afe74ecb7548b7c676d57a2373c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36124d0fa9051c54ea21353631e310b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb18c58fae1406243851946ca195468e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/RuntimeInspector/Assets/Prefabs/InspectorWindow.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/BoolField.prefab
+- Assets/RuntimeInspector/Assets/Resources/RuntimeInspector/ColorPicker.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/DecimalField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/TextureReferenceField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Helpers/ReferencePickerItem.prefab
+- Assets/RuntimeInspector/Assets/Resources/RuntimeInspector/DraggedReferenceItem.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/Vector3Field.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/Vector2Field.prefab
+- Assets/RuntimeInspector/Assets/Skins/DarkSkin.asset
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeHierarchy/HierarchyItemSearchEntry.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/IntegerField.prefab
+- Assets/RuntimeInspector/Assets/Skins/LightSkin.asset
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeHierarchy/HierarchyItemRoot.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/StringField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/Vector4Field.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/ObjectField.prefab
+- Assets/RuntimeInspector/Assets/InternalSettings.asset
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/GameObjectField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/BoundsField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/ObjectReferenceField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/EnumField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/ExposedMethodField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/HierarchyWindow.prefab
+- Assets/RuntimeInspector/Assets/Resources/RuntimeInspector/ObjectReferencePicker.prefab
+- Assets/MultiMod/Resources/ExportSettings.asset
+- Assets/RuntimeInspector/Assets/Prefabs/Inspector.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/ArrayField.prefab
+- Assets/RuntimeInspector/Startup Prefab.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/Menu.prefab
+- Assets/RuntimeInspector/Assets/ExternalResources/ColorWheel/ColorWheel.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeHierarchy/HierarchyItemTransform.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/Hierarchy.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/RectField.prefab
+- Assets/RuntimeInspector/Assets/Prefabs/RuntimeInspector/Fields/ColorField.prefab
+Dependencies: []

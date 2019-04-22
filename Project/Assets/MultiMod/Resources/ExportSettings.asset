@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 168753087, guid: 210a97a1fb4e06b48b13f515f2188030, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  _author: ldlework
-  _description: Explore the scene hierarchy and edit components of objects
+  _author: MultiMod
+  _description: 
   _name: RuntimeInspector
-  _outputDirectory: B:/RoR2/MultiMod/build
+  _outputDirectory: B:/RoR2/RuntimeInspector/build
   _version: 0.0.1
   _prefab: {fileID: 4736625491976717983, guid: bd08c18ce00e1bc49ac12daba5147d1d, type: 3}

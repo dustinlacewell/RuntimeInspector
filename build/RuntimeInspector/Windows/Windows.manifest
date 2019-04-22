@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2932779028
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: runtimeinspector.assets
+      Dependencies: {}
