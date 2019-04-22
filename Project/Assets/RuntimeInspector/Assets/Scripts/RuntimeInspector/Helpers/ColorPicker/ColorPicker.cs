@@ -105,6 +105,7 @@ namespace RuntimeInspectorNamespace
 			initialValue = initialColor;
 
 			this.onColorChanged = null;
+            Debug.Log($"ColorWheel is null: {this.colorWheel == null}");
 			colorWheel.PickColor( initialColor );
 			alphaSlider.Color = initialColor;
 			alphaSlider.Value = initialColor.a;
