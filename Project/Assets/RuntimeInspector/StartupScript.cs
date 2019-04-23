@@ -33,4 +33,9 @@ public class StartupScript : ModBehaviour
         rect.offsetMax = Vector2.one;
         rect.localScale = Vector3.one;
     }
+
+    public void DoDebug()
+    {
+        Debug.Log("Debug button pressed.");
+    }
 }
