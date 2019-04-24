@@ -1,1 +1,1 @@
-Unity.exe -batchmode -nographics -projectPath Project -disable-assembly-updater -executeMethod Builder.PerformBuild -quit
+Unity.exe -batchmode -nographics -projectPath RuntimeInspector -disable-assembly-updater -executeMethod Builder.PerformBuild -quit
